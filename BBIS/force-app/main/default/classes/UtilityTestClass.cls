@@ -1,6 +1,14 @@
 @isTest
 
 public with sharing class UtilityTestClass {
+    //Changes done by Atul - Start
+    
+    public UtilityTestClassOne() {
+
+    }
+    //Changes done by Atul - End 
+
+    
     public UtilityTestClass() {
 
     }
