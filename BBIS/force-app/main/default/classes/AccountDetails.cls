@@ -1,5 +1,6 @@
 public class AccountDetails {
     public static void  insertAccount(){
+		System.debug('Test');
         Account account1 = new Account();
         account1.name = 'Sreeram901';
         account1.Phone='9988012121';
